@@ -4,4 +4,4 @@ My name is Harry Simpson. I'm currently learning at Tech Elevator, which is a co
 
 My pronouns are he/him.
 
-After completing the bootcamp, I will be looking for a job in software or web development, and working on making games or game mods on the side. A couple of my inspirations in the gaming realm are the LWOTC mod for XCom 2: WOTC and the Vanilla Expanded mod series for RimWorld.
+After completing the bootcamp, I will be looking for a job in software or web development, and I will work on making games or game mods on the side. A couple of my inspirations in the gaming realm are the LWOTC mod for XCom 2: WOTC and the Vanilla Expanded mod series for RimWorld.
